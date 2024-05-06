@@ -1,7 +1,7 @@
 import java.util.Date;
 import java.util.Scanner;
 
-//import DataHiding.nestedClass;
+import DataHiding.nestedClass;
 
 public class StudentMain {
     public static void main(String[] args)
